@@ -1,6 +1,18 @@
 # Transformer-based-Any-step-Dynamics-Model-for-MBRL
 For anybody interested in this project please feel free to read the project report.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/568f77cd-00ee-4a16-8d51-31fcc6dd7efa" alt="v3-1" width="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a98dd26-7c17-4fee-b923-c83a7db85083" alt="v3-1" width="800">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e93948a1-dc58-4dc1-a84e-2586a5141b62" alt="v3-1" width="800">
+</p>
+
 ## Reference:
 
 [1] F.-M. Luo, T. Xu, H. Lai, X.-H. Chen, W. Zhang, and Y. Yu. A survey on model-based reinforcement learning. Science China Information Sciences, 67(2):121101, 2024.
