@@ -1,0 +1,7 @@
+max_arm_step: 5
+rollout_schedule: [0, 50000, 1, 15]
+target_entropy: -1
+n_steps: 50000
+
+ac_hidden_dims: [64, 64]
+arm_hidden_dim: 64
