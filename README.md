@@ -1,5 +1,5 @@
 # Transformer-based-Any-step-Dynamics-Model-for-MBRL
-For anybody interested in this project please feel free to read the project report.
+For anybody interested in this project please feel free to read the project report. The code mainly heritages from **https://github.com/HxLyn3/ADMPO**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/568f77cd-00ee-4a16-8d51-31fcc6dd7efa" alt="v3-1" width="800">
